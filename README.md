@@ -1,21 +1,24 @@
-# Hi there 👋
-# I'm Akbar 🚀
-Developer and Student Of Informatics
+# Hi there 👋 I'm Akbar
 
-## 💻 Tech Stack
-- Python
-- C++
-- HTML
-- CSS
-- JavaScript
+💻 Informatics Student | Developer | Photographer 📸  
+⚡ Code • Create • Capture  
 
-## 📫 Connect with me
-- Instagram
-- LinkedIn
-- Tiktok
+---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=AkbarFabiansyah&show_icons=true&theme=github_dark)
 
-## 👾 Pacman Contribution
+## 🔥 Streak
+![streak](https://streak-stats.demolab.com/?user=AkbarFabiansyah&theme=github-dark)
 
-![pacman](https://raw.githubusercontent.com/AkbarFabiansyah/pacman-animation/main/pacman.svg)
+## 📈 Activity Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=AkbarFabiansyah&theme=github-dark)
+
+## 💻 Top Languages
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarFabiansyah&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/fabiansyahakbarr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/akbarfabiansyah)
