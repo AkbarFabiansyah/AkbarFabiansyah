@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Akbar 🚀
-  Developer and Student Of Informatics
+# Developer and Student Of Informatics
 
 ## 💻 Tech Stack
 - Python
