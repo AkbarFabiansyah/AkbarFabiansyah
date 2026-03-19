@@ -13,3 +13,9 @@ Student Of Informatics
 - Instagram
 - LinkedIn
 - Tiktok
+
+## 🐍 Contribution Snake
+
+## 👾 Pacman Contribution
+
+![pacman](https://raw.githubusercontent.com/AkbarFabiansyah/pacman-animation/main/pacman.svg)
