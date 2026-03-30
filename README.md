@@ -5,9 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkbarFabiansyah&show_icons=true&theme=github_dark))
-
 ## 🔥 Streak
 ![streak](https://streak-stats.demolab.com/?user=AkbarFabiansyah&theme=github-dark)
 
