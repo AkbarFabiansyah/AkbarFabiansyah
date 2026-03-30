@@ -8,7 +8,8 @@
 ## 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=AkbarFabiansyah&show_icons=true&theme=github_dark)
 
-## 🔥 Streak![streak](https://streak-stats.demolab.com/?user=AkbarFabiansyah&theme=github-dark)
+## 🔥 Streak
+![streak](https://streak-stats.demolab.com/?user=AkbarFabiansyah&theme=github-dark)
 
 ## 💻 Top Languages
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarFabiansyah&layout=compact&theme=github_dark)
