@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Akbar
 <img src="https://raw.githubusercontent.com/AkbarFabiansyah/AkbarFabiansyah/main/header.png" width="100%">
-💻 Informatics Student | Developer | Photographer 📸  
-⚡ Code • Create • Capture  
+💻 Informatics Student | Developer 
+⚡ Code • Create 
 
 ---
 
