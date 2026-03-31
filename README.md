@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Akbar
-<img src="https://raw.githubusercontent.com/AkbarFabiansyah/AkbarFabiansyah/header.png/main/" width="100%">
+<img src="https://raw.githubusercontent.com/AkbarFabiansyah/AkbarFabiansyah/main/header.png" width="100%">
 💻 Informatics Student | Developer 
 ⚡ Code • Create 
 
