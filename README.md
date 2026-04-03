@@ -19,3 +19,6 @@
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/fabiansyahakbarr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/akbarfabiansyah)
+
+## 🟩 Contributions
+![metrics](https://raw.githubusercontent.com/AkbarFabiansyah/AkbarFabiansyah/main/github-metrics.svg)
