@@ -11,9 +11,6 @@
 ## 📈 Activity Graph
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=AkbarFabiansyah&theme=github-dark)
 
-## 💻 Top Languages
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarFabiansyah&layout=compact&theme=github_dark)
-
 ---
 
 ## 🌐 Connect with me
