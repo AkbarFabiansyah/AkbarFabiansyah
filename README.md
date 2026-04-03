@@ -16,7 +16,7 @@
 
 ## 💻 Top Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarFabiansyah\&layout=compact\&theme=github_dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarFabiansyah&layout=compact&theme=github_dark&langs_count=8)
 
 ---
 
