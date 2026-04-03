@@ -1,0 +1,18 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: AkbarFabiansyah
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          config_timezone: Asia/Jakarta
+          config_display: large
+          theme: github-dark
